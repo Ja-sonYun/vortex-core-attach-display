@@ -3,13 +3,13 @@
 ![Alt text](https://github.com/Ja-sonYun/vortex-core-attach-display/blob/main/img/IMG_1720.jpg?raw=true "Title")
 
 ## requirements
-Vortex keyboard that doesn't have led function
-esp-01
-oled display 128x32
+Vortex keyboard that doesn't have led function<br>
+esp-01<br>
+oled display 128x32<br>
 
-adafruit display library
-esp01 wifi library
-esp01 wifi manager library
+adafruit display library<br>
+esp01 wifi library<br>
+esp01 wifi manager library<br>
 
 ## How to build
 
